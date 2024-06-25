@@ -160,7 +160,7 @@ if b > a && b > c
 
 
 
-Text(" You should go to the Maldives")
+Text(" You should go to the Maldives!")
 
 
 
